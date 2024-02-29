@@ -46,7 +46,7 @@
 			<h1>Servlet - Pagination</h1>
 			<p class="lead">To divide large number of records into multiple
 				parts</p>
-			<p>Servlet-Pagination v1.0.0. Copyright@2024 by Nathiya & CO</p>
+			<p>Servlet-Pagination v1.0.0. Copyright@2024</p>
 		</div>
 	</div>
 	<!-- Bootstrap core JS-->
