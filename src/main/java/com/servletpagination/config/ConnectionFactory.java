@@ -10,7 +10,7 @@ public class ConnectionFactory {
 	String url = "jdbc:mysql://localhost/servlet_pagination";
 	String user = "root";
 	// String password = "Historaj@007";
-	String password = "Nathiya@2023";
+	String password = "12345";
 	String driverClass = "com.mysql.jdbc.Driver";
 
 	// private constructor
