@@ -19,6 +19,6 @@ CREATE TABLE StudentReg (
   gender VARCHAR(255),
   dob DATE,
   address VARCHAR(500),
-  department VARCHAR(255)
+  department VARCHAR(255),
   PRIMARY KEY (regId)
 );
