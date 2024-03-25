@@ -142,28 +142,28 @@ function showAlert() {
                         <div class="col mb-5 mb-5 mb-xl-0">
                             <div class="text-center">
                                 <img class="img-fluid rounded-circle mb-4 px-4" src="assets/student-1.jpg" alt="..." />
-                                <h5 class="fw-bolder">Yamuna</h5>
+                                <h5 class="fw-bolder">Abi</h5>
                                 <div class="fst-italic text-muted">Founder &amp; CEO</div>
                             </div>
                         </div>
                         <div class="col mb-5 mb-5 mb-xl-0">
                             <div class="text-center">
                                 <img class="img-fluid rounded-circle mb-4 px-4" src="assets/student-2.jpg" alt="..." />
-                                <h5 class="fw-bolder">Sameema Banu</h5>
+                                <h5 class="fw-bolder">Priya</h5>
                                 <div class="fst-italic text-muted">CFO</div>
                             </div>
                         </div>
                         <div class="col mb-5 mb-5 mb-sm-0">
                             <div class="text-center">
                                 <img class="img-fluid rounded-circle mb-4 px-4" src="assets/student-3.jpg" alt="..." />
-                                <h5 class="fw-bolder">Sameera Banu</h5>
+                                <h5 class="fw-bolder">Priyadhyarshini</h5>
                                 <div class="fst-italic text-muted">Operations Manager</div>
                             </div>
                         </div>
                         <div class="col mb-5">
                             <div class="text-center">
                                 <img class="img-fluid rounded-circle mb-4 px-4" src="assets/student-4.jpg" alt="..." />
-                                <h5 class="fw-bolder">Rajarajeshwari</h5>
+                                <h5 class="fw-bolder">Pavithra</h5>
                                 <div class="fst-italic text-muted">CTO</div>
                             </div>
                         </div>
